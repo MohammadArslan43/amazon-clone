@@ -1,0 +1,39 @@
+{
+    "product":[
+        {
+
+            "id":"1",
+            "name":"HP Victus Gaming Laptop, AMD Ryzen 5600H, AMD 4GB Radeon RX 6500M Graphics, 15.6 inch(39.6 cm) FHD, IPS, 8GB DDR4, 512GB, Backlit KB B&O(Win 11,Blue,2...",
+            "price":47990,
+            "imageUrl":"https://m.media-amazon.com/images/I/71hC42cKbsL._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+
+            "id":"2",
+            "name":"Boat Airdopes Joy, 35Hrs Battery, Fast Charge, IWP Tech, Low Latency, 2Mic ENx, Type-C Port, v5.3 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic(Jet Black)",
+            "price":699,
+            "imageUrl":"https://m.media-amazon.com/images/I/512jrg8-68L._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+
+            "id":"3",
+            "name":"Apple iPhone 15 (128 GB) - Green color Dynamic Island bubbles up alerts and Live Activities so you don’t miss them while you’re doing something else. You can see who’s calling ",
+            "price":58999,
+            "imageUrl":"https://m.media-amazon.com/images/I/71nvkHnPpZL._SX679_.jpg"
+        },
+        {
+
+            "id":"4",
+            "name":"Sony BRAVIA 3 Series 139 cm (55 inches) 4K Ultra HD AI Smart LED Google TV K-55S30B (Black)",
+            "price":74990,
+            "imageUrl":"https://m.media-amazon.com/images/I/81h-r-3hioL._SX450_.jpg"
+        },
+        {
+
+            "id":"5",
+            "name":"LG 9.0 Kg, 5 Star, AI Direct Drive Technology, Steam Wash for Allergy Removal, Fully-Automatic )",
+            "price": 27990,
+            "imageUrl":"https://m.media-amazon.com/images/I/71kaBJZ2UGL._SX679_.jpg"
+        }
+    ]
+}
